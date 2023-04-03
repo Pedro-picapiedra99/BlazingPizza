@@ -1,0 +1,15 @@
+C:\Users\HewletPackard\source\Blazor\BlazingPizza\BlazingPizza\Shared\bin\Debug\net5.0\BlazingPizza.Shared.deps.json
+C:\Users\HewletPackard\source\Blazor\BlazingPizza\BlazingPizza\Shared\bin\Debug\net5.0\BlazingPizza.Shared.dll
+C:\Users\HewletPackard\source\Blazor\BlazingPizza\BlazingPizza\Shared\bin\Debug\net5.0\ref\BlazingPizza.Shared.dll
+C:\Users\HewletPackard\source\Blazor\BlazingPizza\BlazingPizza\Shared\bin\Debug\net5.0\BlazingPizza.Shared.pdb
+C:\Users\HewletPackard\source\Blazor\BlazingPizza\BlazingPizza\Shared\obj\Debug\net5.0\BlazingPizza.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HewletPackard\source\Blazor\BlazingPizza\BlazingPizza\Shared\obj\Debug\net5.0\BlazingPizza.Shared.AssemblyInfoInputs.cache
+C:\Users\HewletPackard\source\Blazor\BlazingPizza\BlazingPizza\Shared\obj\Debug\net5.0\BlazingPizza.Shared.AssemblyInfo.cs
+C:\Users\HewletPackard\source\Blazor\BlazingPizza\BlazingPizza\Shared\obj\Debug\net5.0\BlazingPizza.Shared.csproj.CoreCompileInputs.cache
+C:\Users\HewletPackard\source\Blazor\BlazingPizza\BlazingPizza\Shared\obj\Debug\net5.0\BlazingPizza.Shared.dll
+C:\Users\HewletPackard\source\Blazor\BlazingPizza\BlazingPizza\Shared\obj\Debug\net5.0\ref\BlazingPizza.Shared.dll
+C:\Users\HewletPackard\source\Blazor\BlazingPizza\BlazingPizza\Shared\obj\Debug\net5.0\BlazingPizza.Shared.pdb
+C:\Users\HewletPackard\source\Blazor\BlazingPizza\BlazingPizza\Shared\obj\Debug\net5.0\BlazingPizza.Shared.csproj.AssemblyReference.cache
+C:\Users\HewletPackard\source\Blazor\BlazingPizza\BlazingPizza\Shared\bin\Debug\net5.0\BlazingPizza.Shared.runtimeconfig.json
+C:\Users\HewletPackard\source\Blazor\BlazingPizza\BlazingPizza\Shared\bin\Debug\net5.0\BlazingPizza.Shared.runtimeconfig.dev.json
+C:\Users\HewletPackard\source\Blazor\BlazingPizza\BlazingPizza\Shared\obj\Debug\net5.0\BlazingPizza.Shared.genruntimeconfig.cache
